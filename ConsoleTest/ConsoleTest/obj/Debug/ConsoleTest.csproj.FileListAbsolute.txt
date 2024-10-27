@@ -1,0 +1,7 @@
+C:\Users\3msil\Desktop\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\Users\3msil\Desktop\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\Users\3msil\Desktop\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\Users\3msil\Desktop\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.csproj.AssemblyReference.cache
+C:\Users\3msil\Desktop\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\3msil\Desktop\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Users\3msil\Desktop\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.pdb
