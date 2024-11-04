@@ -1,0 +1,7 @@
+C:\Users\3msil\source\repos\tr\tr\bin\Debug\tr.exe.config
+C:\Users\3msil\source\repos\tr\tr\bin\Debug\tr.exe
+C:\Users\3msil\source\repos\tr\tr\bin\Debug\tr.pdb
+C:\Users\3msil\source\repos\tr\tr\obj\Debug\tr.csproj.AssemblyReference.cache
+C:\Users\3msil\source\repos\tr\tr\obj\Debug\tr.csproj.CoreCompileInputs.cache
+C:\Users\3msil\source\repos\tr\tr\obj\Debug\tr.exe
+C:\Users\3msil\source\repos\tr\tr\obj\Debug\tr.pdb
